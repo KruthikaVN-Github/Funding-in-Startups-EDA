@@ -59,26 +59,12 @@ The dataset consists of **54,294 rows** and **39 columns** with detailed informa
 | `round_H`               | Round H funding received.                                                      |
 
 ---
-
-## 📂 Folder Structure
-- `data/`: Contains the startup funding dataset in CSV format.
-- `notebooks/`: Includes Jupyter notebooks for analysis and visualization.
-- `README.md`: Documentation for the repository.
-
----
-
-## 🔍 Key Insights (Examples)
-Here are some analyses you can perform using this dataset:
-- **Funding Trends**: Analyze total funding over time, segmented by year or quarter.
-- **Category Analysis**: Identify which markets receive the most funding.
-- **Geographical Insights**: Understand how funding varies across countries, cities, and regions.
-- **Round-wise Analysis**: Explore which funding rounds (e.g., Seed, Venture, Series A) dominate in funding amounts.
-
----
-
-## 💡 Possible Applications
-- Research startup success factors and funding strategies.
-- Create interactive visualizations to showcase trends in startup funding.
+## 📊 Key Insights
+Here are a few insights you can explore using this dataset:
+- **Funding Trends**: Analyze funding distribution across years, quarters, and rounds.
+- **Market Analysis**: Identify which markets receive the highest funding.
+- **Geographical Insights**: Explore how funding varies by country, region, and city.
+- **Funding Rounds**: Understand how funding amounts differ across stages like Seed, Venture, and Series rounds.
 
 ---
 
