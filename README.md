@@ -3,7 +3,7 @@
 This dataset contains detailed information about startups and their funding history as sourced from Crunchbase. It includes data points such as the startup's name, website, founding details, funding types, and funding rounds, enabling a comprehensive analysis of startup funding trends, geographical distribution, and market preferences.
 
 # 🌟 Key Highlights:
-Over 38 columns providing detailed funding-related insights.
+Over 39 columns providing detailed funding-related insights.
 Covers multiple funding types, including seed funding, angel investment, venture capital, and private equity.
 Includes founding details (date, quarter, and year) for startups.
 Geographic data such as country, state, and city of origin.
